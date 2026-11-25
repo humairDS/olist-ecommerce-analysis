@@ -1,0 +1,7 @@
+segment|customers|pct_customers|revenue|pct_revenue|avg_spend
+1. Loyal (repeat, recent)|1230|1.3|332512.0|2.5|270.3
+2. Repeat (lapsing)|1644|1.7|414613.0|3.1|252.2
+3. New high-value|14700|15.5|3946987.0|29.3|268.5
+4. New|21950|23.2|1220850.0|9.1|55.6
+5. Lapsed high-value|20999|22.2|5630158.0|41.9|268.1
+6. Lapsed low-value|34180|36.1|1904410.0|14.2|55.7
